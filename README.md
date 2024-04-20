@@ -2,8 +2,8 @@
 BACKEND DEV/ML/CV (INTERN)\
 Учусь в IT-Колледже "Сириус" на факультете "Информационные системы и программирование", ищу стажировку, которая даст поработать над реальными задачами.
 # Contacts
-tutikosnov@gmail.com\ 
-+7 996 238 73 43\  
+tutikosnov@gmail.com\
++7 996 238 73 43\
 t.me/tnx77
 # TOOLS
 Python (Numpy, pandas, sqlite, telebot, matplotlib, seaborn, scikit-learn)\
