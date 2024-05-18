@@ -1,5 +1,4 @@
-![image](https://github.com/tutik77/Resume/assets/151811801/7d54d4fd-a0f5-4b19-be31-0a1c9ccb971e)
-
+![IMG_0691](https://github.com/tutik77/Resume/assets/151811801/233336a5-15f9-4eb4-84aa-fcf304647a7a)
 # Николай Тутик
 BACKEND DEV/ML/CV (INTERN)\
 Учусь в IT-Колледже "Сириус" на факультете "Информационные системы и программирование", ищу стажировку, которая даст поработать над реальными задачами.
@@ -11,7 +10,7 @@ vk.com/tnx77
 # TOOLS
 Python (Numpy, pandas, sqlite, telebot, matplotlib, seaborn, scikit-learn)\
 С++, Bash, HTML, CSS, SQL\
-Git, Github\
+Git, Github, Docker\
 VS Code, Pycharm, Jupyter Notebook, Anaconda
 # COURSES
 **Поколение Python на Stepik**
