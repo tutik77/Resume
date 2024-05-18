@@ -1,4 +1,5 @@
-![image](https://github.com/tutik77/Resume/assets/151811801/ffe1ce81-7596-4b9a-850e-60783644b240)
+![image](https://github.com/tutik77/Resume/assets/151811801/7d54d4fd-a0f5-4b19-be31-0a1c9ccb971e)
+
 # Николай Тутик
 BACKEND DEV/ML/CV (INTERN)\
 Учусь в IT-Колледже "Сириус" на факультете "Информационные системы и программирование", ищу стажировку, которая даст поработать над реальными задачами.
