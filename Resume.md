@@ -8,8 +8,8 @@ t.me/tnx77\
 vk.com/tnx77
 # TOOLS
 Python (Numpy, pandas, sqlite, telebot, matplotlib, seaborn, scikit-learn)\
-С++, Bash, HTML, CSS, SQL\
-Git, Github, Docker\
+С++, Bash, HTML, SQL\
+Git, Docker\
 VS Code, Pycharm, Jupyter Notebook, Anaconda
 # COURSES
 **Поколение Python на Stepik**
