@@ -1,5 +1,5 @@
 # Николай Тутик
-BACKEND DEV/ML/CV (INTERN)\
+BACKEND DEV/ML/CV
 День добрый! Учусь в IT-Колледже "Сириус" на программиста, ищу работу или стажировку. Знаю только базу, но готов пахать!
 # Contacts
 nikolaj.tutik@mail.ru\
