@@ -7,7 +7,7 @@ nikolaj.tutik@mail.ru\
 t.me/tnx77\
 vk.com/tnx77
 # TOOLS
-Python, Django\
+Python, FastAPI\
 С++, Bash, HTML, SQL\
 Git, Docker\
 VS Code, Pycharm, Jupyter Notebook, Anaconda
