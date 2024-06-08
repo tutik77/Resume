@@ -10,7 +10,6 @@ vk.com/tnx77
 Python, FastAPI\
 С++, Bash, HTML, SQL\
 Git, Docker\
-VS Code, Pycharm, Jupyter Notebook, Anaconda
 # COURSES
 **Поколение Python на Stepik**
 
