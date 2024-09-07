@@ -8,8 +8,8 @@ t.me/tnx77\
 vk.com/tnx77
 # TOOLS
 Python, FastAPI, Pytorch\
-С++, Bash, HTML, SQL\
-Git, Docker\
+С++, Bash, SQL\
+Git, Docker
 # COURSES
 **Поколение Python на Stepik**
 
